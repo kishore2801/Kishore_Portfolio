@@ -23,7 +23,15 @@ In this analysis we are going to use Logistic Regression, SVM and Decision Tree 
 This is probably the most versatile, easy and resourceful dataset in pattern recognition literature. Nothing could be simpler than the Iris dataset to learn classification techniques. If you are totally new to data science, this is your start line. The data has only 150 rows & 4 columns.
 
 **Problem: Predict the class of the flower based on available attributes.**
+
 **Results:**
-![alt text](https://github.com/kishore2801/Data-science-Projects/blob/main/Iris%20Data/Box%20Plot%20for%20Sepal%20Length%20cm.png) ![alt text](https://github.com/kishore2801/Data-science-Projects/blob/main/Iris%20Data/Density%20plot%20for%20Petal%20Length%20CM.png) ![alt text](https://github.com/kishore2801/Data-science-Projects/blob/main/Iris%20Data/Decision%20Tree%20Plot%20for%20Flower%20prediction%20(2).png)
+
+![alt text](https://github.com/kishore2801/Data-science-Projects/blob/main/Iris%20Data/Box%20Plot%20for%20Sepal%20Length%20cm.png) 
+![alt text](https://github.com/kishore2801/Data-science-Projects/blob/main/Iris%20Data/Density%20plot%20for%20Petal%20Length%20CM.png)
+![alt text](https://github.com/kishore2801/Data-science-Projects/blob/main/Iris%20Data/Decision%20Tree%20Plot%20for%20Flower%20prediction%20(2).png)
 
 As per the Test Accuracy we can see that SVM classification is considered as better solution since the test accuracy is 100% of therefore SVM classification is a better model for the dataframe.
+
+Uploaded on 12/13/2020 9.51pm
+
+--------------------------------------------------------------------------
